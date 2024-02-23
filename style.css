@@ -76,7 +76,7 @@ nav ul li a:hover::after{
 }
 
 .header-text h1{
-    margin-top: 3%;
+    margin-top: 2.5%;
     font-size: 40px;
 }
 
@@ -140,7 +140,7 @@ nav ul li a:hover::after{
 }
 
 .skills-col-2 h1{
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 600;
     margin-left: 10%;
 }
@@ -154,7 +154,7 @@ nav ul li a:hover::after{
 /* ----Work Experience--- */
 #work h1{
     text-align: center;
-    font-size:45px;
+    font-size:30px;
     max-width: 1200px;
     margin-top: 100px;
     margin-left: 50px;
@@ -438,7 +438,7 @@ button.buttonforDetails{
 
 #education h1{
     text-align: center;
-    font-size: 45px;
+    font-size: 30px;
     padding: 80px;
 }
 
@@ -497,7 +497,7 @@ button.buttonforDetails{
 }
 
 #projects h1{
-    font-size:45px;
+    font-size:30px;
     text-align: center;
 
 }
@@ -558,7 +558,7 @@ button.buttonforDetails{
     padding: 80px 0;
 }
 .sub-title-contact{
-    font-size: 45px;
+    font-size: 30px;
 }
 .contact-left{
     flex-basis: 35%;
