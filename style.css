@@ -118,7 +118,7 @@ nav ul li a:hover::after{
 }
 
 .skills-col-1{
-    flex-basis: 35%;
+    flex-basis: 30%;
 }
 
 .skills-col-1 img{
@@ -134,11 +134,13 @@ nav ul li a:hover::after{
 .skills-col-2 h1{
     font-size: 45px;
     font-weight: 600;
+    margin-left: 10%;
 }
 
 .skills-col-2 pre span{
     color: #e6c068; 
-    font-size: 20px;
+    font-size: 18px;
+    margin-left: 10%;
 }
 
 /* ----Work Experience--- */
