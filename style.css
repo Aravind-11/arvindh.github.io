@@ -98,7 +98,7 @@ nav ul li a:hover::after{
 
 .header-text h2{
     margin-top: 0.2%;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .header-text h2 span{
@@ -107,7 +107,7 @@ nav ul li a:hover::after{
 
 .header-text p{
     /* margin-top: 0.5%; */
-    font-size: 18px;
+    font-size: 16px;
 }
 
 /* -----Skills----- */
