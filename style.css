@@ -554,15 +554,15 @@ button.buttonforDetails{
 }
 .contact-left{
     flex-basis: 35%;
-    margin-left: 90px;
-    padding: 150px;
+    margin-left: 40px;
+    padding: 100px;
 
 }
 
 .contact-right{
     flex-basis: 60%;
-    padding: 150px;
-    padding-right: 20px;
+    padding: 100px;
+    padding-right: 40px;
 }
 
 .contact-left p{
