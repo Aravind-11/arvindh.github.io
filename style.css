@@ -39,7 +39,7 @@ nav{
 }
 nav ul{
     margin-left: 10%;
-    margin-right: -75px;
+    margin-right: -50px;
 }
 
 .logo{
@@ -56,7 +56,7 @@ nav ul li{
 nav ul li a{
     color: #c2c2c2;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 14px;
     position: relative;
 }
 
