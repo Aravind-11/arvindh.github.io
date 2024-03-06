@@ -15,7 +15,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background: #FFFFFF;
+    background: #080808;
     color:#c2c2c2c2;
 }
 
@@ -96,7 +96,7 @@ nav ul li a:hover::after{
 }
 
 .header-text h1 span{
-    color: #e6c068;
+    color: #FFFFFF;
     font-size: 50px;
 }
 
@@ -106,7 +106,7 @@ nav ul li a:hover::after{
 }
 
 .header-text h2 span{
-    color: #e6c068;
+    color: #FFFFFF;
 }
 
 .header-text p{
@@ -118,7 +118,7 @@ nav ul li a:hover::after{
 #skills{
     padding: 80px 0;
     color: #c2c2c2;
-    background-color: #111010;
+    background-color: #FFFFFF;
 
 }
 
@@ -162,7 +162,7 @@ nav ul li a:hover::after{
     max-width: 1200px;
     margin-top: 100px;
     margin-left: 50px;
-    background-color: #080808;
+    background-color: #FFFFFF;
     margin-bottom: 5%;
 }
 
@@ -280,7 +280,7 @@ nav ul li a:hover::after{
 }
 
 .worktext ul button{
-    background-color: #111010;
+    background-color: #FFFFFF;
     color:#c2c2c2;
     font-size: smaller;
     list-style: none;
@@ -305,7 +305,7 @@ button.buttonforDetails{
     font-size: medium;
     cursor: pointer;
     padding: 5px;
-    background-color: #080808;
+    background-color: #FFFFFF;
     border-radius: 10px;
     color: #e6c068;
 }
@@ -328,7 +328,7 @@ button.buttonforDetails{
 .work__modal-content{
     
     position: relative;
-    background-color: #1e1b1b;
+    background-color: #FFFFFF;
     padding: 3.5 rem 1.5 rem;
     
     overflow: auto;;
@@ -491,14 +491,14 @@ button.buttonforDetails{
     color: #e6c068;
     cursor: pointer;
     border-radius: 10px;
-    background-color: #080808;
+    background-color: #FFFFFF;
 
 }
 
 /* ---------Projects------------ */
 
 #projects{
-    background-color: #080808;
+    background-color: #FFFFFF;
     padding: 80px 0;
 }
 
@@ -515,7 +515,7 @@ button.buttonforDetails{
     width: auto;
 }
 .project_heading{
-    background-color: #1e1b1b;
+    background-color: #FFFFFF;
     justify-content: center;
     color: #e6c068;
 }
@@ -560,7 +560,7 @@ button.buttonforDetails{
 /* --------------Contact----------------- */
 
 #contact{
-    background-color: #111010;
+    background-color: #FFFFFF;
     padding: 80px 0;
 }
 .sub-title-contact{
